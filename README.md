@@ -1,6 +1,9 @@
-## Hello Kitties, Welcome to my GitHub page 👋 ✨
+## Hello Kittens, Welcome to my GitHub page 👋 ✨
 
-### Here you will find content that I have gathered through my Cybersecurity Journey that others may find helpful.
+
+![Hello](https://user-images.githubusercontent.com/50695633/123531801-7af4ee80-d6bc-11eb-83ec-58050df8ff54.gif)
+
+
 
 <!--
 **SinisterKitten/SinisterKitten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,6 +13,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
+
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
