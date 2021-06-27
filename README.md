@@ -1,4 +1,4 @@
-## Hello Kittens, Welcome to my GitHub page 👋 ✨
+## Hello Kittens, Welcome to my GitHub page 👋 I've included some of the walkthroughs, cheatsheets, and info sheets I've created during my cybersecurity journey. I've also included some of the certifications and badges I have gotten through education and competing in cybersecutiy competitions.✨
 
 
 ![Hello](https://user-images.githubusercontent.com/50695633/123531801-7af4ee80-d6bc-11eb-83ec-58050df8ff54.gif)
